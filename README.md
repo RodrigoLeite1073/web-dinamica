@@ -1,0 +1,3 @@
+# WEB DINAMICA
+
+usando XMLHttpRequest
